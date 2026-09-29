@@ -1,2 +1,2 @@
 ## Write your fullname
-# sample
+John Rey P. Regino
